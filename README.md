@@ -1,10 +1,23 @@
-# ☁ GDrive+ (ver. 1.1)
+# ☁ GDrive+ ➔ Omnify+
 
-**GDrive+** — быстрый десктопный клиент, проводник и менеджер загрузок для **Google Диска** и **Яндекс Диска**, написанный на Python (PyQt6). Создан для удобной работы с большими объёмами данных, прямого переноса файлов между облаками и скачивания папок без ограничений браузера и принудительной архивации в ZIP.
+> [!IMPORTANT]
+> ### 🚀 Проект переименован в **Omnify+** и переехал в новый репозиторий!
+> Разработка и поддержка **GDrive+** в этом репозитории прекращены. Все новые обновления, свежие релизы и исходный код теперь доступны на новой странице проекта.
+> 
+> Подписывайтесь на наш Telegram-канал, чтобы следить за обновлениями, новостями разработки и общаться с автором!
 
-[Скачать GDrive+](https://www.google.com/search?q=https://github.com/kan1vets/GDrivePlus/releases/latest/download/GDrivePlus_Setup.exe)
+<p align="left">
+  <a href="https://github.com/kan1vets/OmnifyPlus">
+    <img src="https://img.shields.io/badge/Перейти_в_новый_репозиторий-Omnify+-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Перейти в Omnify+">
+  </a>
+  <a href="https://t.me/OmnifyPlus">
+    <img src="https://img.shields.io/badge/Подписаться_на_Telegram-@OmnifyPlus-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram-канал Omnify+">
+  </a>
+</p>
 
-> 💡 **Быстрый старт:** Скачайте и запустите установщик выше. Программа автоматически установится в систему, создаст ярлыки и будет самостоятельно обновляться при выходе новых версий.
+---
+
+**GDrive+ (теперь Omnify+)** — быстрый десктопный клиент, проводник и менеджер загрузок для **Google Диска** и **Яндекс Диска**, написанный на Python (PyQt6). Создан для удобной работы с большими объёмами данных, прямого переноса файлов между облаками и скачивания папок без ограничений браузера и принудительной архивации в ZIP.
 
 ## ✨ Основные возможности
 
@@ -25,7 +38,7 @@
 * **API:** Google Drive API v3 (`google-api-python-client`, `google-auth-oauthlib`), Yandex Disk REST API v1 (`cloud-api.yandex.net`)
 * **Network:** `requests` (Connection Pooling, Chunked Streaming, HTTP Range headers, Local OAuth Callback Server)
 
-## 🚀 Автор
+## 🚀 Автор и сообщество
 
-Разработано **Konstantin Kanivets**.
-
+Разработано **Konstantin Kanivets**.  
+📢 Следите за обновлениями проекта в официальном Telegram-канале: **[t.me/OmnifyPlus](https://t.me/OmnifyPlus)**
